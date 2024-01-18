@@ -1,5 +1,14 @@
 # SQL-The-Movie-Database
 
+### Table of Contents
+- [Project Overview](#Project-Overview)
+- [Data Source](#Data-Source)
+- [Tools](#Tools)
+- [Preparation](#Preparation)
+- [Exploratory data analysis](#Exploratory-data-analysis)
+- [Data analysis](#Data-analysis)
+- [Findings/Results](#Findings/Results)
+
 ### Project Overview
 We will be exploring The Movie Database – an online movie and TV show database that houses some of the most popular movies and TV shows at your fingertips. The TMDb database supports 39 official languages used in over 180 countries daily and dates back all the way to 2008.
 
