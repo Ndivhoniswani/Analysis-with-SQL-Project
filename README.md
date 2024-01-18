@@ -9,7 +9,7 @@ We will be exploring The Movie Database – an online movie and TV show database
 Note that the database will not be available here, due to copywrite issues.
 
 ### Tools
-- sql
+- SQL
 - MYSQL Workbench
 - Jupyter notebook
 
