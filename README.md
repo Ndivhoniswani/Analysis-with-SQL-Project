@@ -1,5 +1,4 @@
-# SQL-The-Movie-Database
-
+# Decode Hollywood: A SQL-Powered Movie Database Experience
 ### Table of Contents
 - [Project Overview](#Project-Overview)
 - [Data Source](#Data-Source)
