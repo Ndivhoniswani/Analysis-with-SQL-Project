@@ -1,4 +1,7 @@
 # Decode Hollywood: A SQL-Powered Movie Database Experience
+
+![SQL](https://github.com/Ndivhoniswani/Analysis-with-SQL-Project/blob/main/SQL%20Image.png)
+
 ### Table of Contents
 - [Project Overview](#Project-Overview)
 - [Data Source](#Data-Source)
